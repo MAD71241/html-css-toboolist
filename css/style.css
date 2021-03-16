@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    line-height: 80px;
+    height: 80px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#boolean-logo {
+    vertical-align: middle;
+}
+
+#logo-name {
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    vertical-align: middle;
+}
